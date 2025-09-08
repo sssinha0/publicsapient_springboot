@@ -110,21 +110,6 @@ hibernate:
 * Java 17+
 * Maven 3.8+
 
-### Run with Maven
-
-```bash
-./mvnw spring-boot:run
-```
-
-### Or build and run JAR
-
-```bash
-./mvnw clean package
-java -jar target/publicsapient_backend-0.0.1-SNAPSHOT.jar
-```
-
----
-
 ## 📡 API Endpoints
 
 ### Load Recipes
@@ -157,14 +142,6 @@ GET /recipes/random?q=chicken
 
 ---
 
-## 🧪 Testing
-
-Run unit and integration tests:
-
-```bash
-./mvnw test
-```
-
 ---
 
 ## 📊 Future Improvements
@@ -186,12 +163,7 @@ Run unit and integration tests:
 
 ---
 
-## 📸 Screenshots / Demo (Optional)
-
-You can attach:
-
-* API responses in Postman screenshots
-* ER diagram for Recipe entity
-* Sample logs of orchestration
-
+## 📸 Screenshots 
+<img width="987" height="588" alt="Screenshot from 2025-09-08 10-58-39" src="https://github.com/user-attachments/assets/5e42eb09-e4d3-4034-be2b-a79bb2379036" />
 ---
+
